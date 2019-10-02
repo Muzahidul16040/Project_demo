@@ -1,0 +1,53 @@
+#menu-bar-container{
+    border-top: 1px solid  #cccccc;
+    background-color: #BB1919;
+    width: 100%;
+    height: 70px;
+    margin:0 auto;
+}
+
+#menu-section{
+	width: 1000px;
+    margin: 0 auto;
+}
+
+#menu-section a{
+	color: white;
+	text-decoration: none;
+	text-align: right;
+	position: relative;
+	top: 25px;
+	padding: 0 12px;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+#search-box {       
+    font-weight: bold;
+    font-size: 14px;
+    background-color: white;
+    border: none;
+    padding:5px;
+    margin:8px;
+    float: right;    
+}
+
+#search-logo{
+    height:30px;
+    width:30px;
+    margin-top:5px;
+	float: right;
+}
+
+body{
+	margin:10px;
+	padding:0;
+	font-family: Helvetica, Arial, sans-serif; 
+}
+
+#page-container{
+	width: 1000px;
+    margin: 0 auto;
+}
+
+
